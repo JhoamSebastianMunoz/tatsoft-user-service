@@ -1,0 +1,25 @@
+
+# agents / AI tooling (infraestructura de skills del asistente)
+.agents*
+.AGENTS.md
+/opencode*
+/AGENTS.md
+/skills-lock.json
+/opencode.json
+/MEMORY.md
+
+
+# AI / code assistants
+.opencode/
+.claude/
+.cursor/
+.cursorrules
+.windsurf/
+.continue/
+.aider*
+.aider.log
+
+# editors
+.vscode/
+.idea/
+*.code-workspace
