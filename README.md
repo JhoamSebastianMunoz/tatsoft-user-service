@@ -142,6 +142,9 @@ src/main/java/com/tatSoftGestionUsuarios
 
 El workflow de GitHub Actions (`.github/workflows/master_backendusermanagement.yml`) compila el proyecto con Maven y lo despliega en **Azure App Service** al hacer push sobre la rama `master`.
 
+> [!IMPORTANT]
+> El despliegue está correctamente implementado y funcional, pero actualmente se encuentra **en pausa** porque el pago de los créditos de los servicios de Azure está suspendido de forma temporal. Una vez se restablezca el pago de los créditos, el workflow volverá a desplegar con normalidad sin requerir cambios adicionales.
+
 ## Pruebas
 
 ```bash
