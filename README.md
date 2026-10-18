@@ -27,6 +27,13 @@ Construido con **Spring Boot 3.4**, **Spring Security**, **Spring Data JPA** y *
 | springdoc-openapi | 2.1.0 |
 | Maven | Wrapper incluido |
 
+## Clonar el repositorio
+
+```bash
+git clone https://github.com/JhoamSebastianMunoz/tatsoft-user-service.git
+cd tatsoft-user-service
+```
+
 ## Requisitos previos
 
 - JDK 17 o superior.
